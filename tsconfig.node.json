@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ES2015",
+    "moduleResolution": "node"
+  },
+  "include": ["vite.config.ts"],
+  "exclude": []
+}
